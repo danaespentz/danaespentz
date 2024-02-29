@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 ### About me:
 
 - 👩‍💻 Software Engineer
-- 🎓 Electrical and Computer Engineering NTUA, specialization in Computer Science & Bioengineering
+- 🎓 Electrical and Computer Engineering NTUA
+- Specialization in Computer Science & Bioengineering
 
 
 
