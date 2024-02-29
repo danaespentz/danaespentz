@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 🎓 Electrical and Computer Engineering NTUA, specialization in Computer Science & Bioengineering
 
 ---
+<!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaespentz&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems
+)](https://github.com/danaespentz/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
